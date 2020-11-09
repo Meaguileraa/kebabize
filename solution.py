@@ -25,4 +25,5 @@ def kebabize(string):
 
 
 print(kebabize('camelsHaveThreeHumps')) #camels-have-three-humps
+print(kebabize('piratesOfTheCarribean')) #pirates-of-the-carribean
 print(kebabize('camelsHave3Humps')) #camels-have-h
